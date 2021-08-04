@@ -4,7 +4,7 @@ This is a  tiny but fun Memory Videogame I created using C# on Visual Studio .NE
 
 ## Installation & How to Play the game 
 
-No need to, if you want to play it just enter into the MemoriaMundialistaFinal\MemoriaMundialistaFinal\obj\x86\Release folder and click into the MemoriaMundialistaFinal.exe app. It will start the game. Play "Jugar", click on a pair of cards and try to match them all! ✨
+No need to install, if you want to play it just enter into the MemoriaMundialistaFinal\MemoriaMundialistaFinal\obj\x86\Release folder and click into the MemoriaMundialistaFinal.exe app. It will start the game. Play "Jugar", click on a pair of cards and try to match them all! ✨
 
 ## Screenshots:
 ![Screenshot](screenshots/1.png)
